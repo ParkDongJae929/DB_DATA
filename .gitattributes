@@ -1,0 +1,2 @@
+repo_trades filter=lfs diff=lfs merge=lfs -text
+repo_trades_2020-2024.db filter=lfs diff=lfs merge=lfs -text
