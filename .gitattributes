@@ -2,3 +2,4 @@ repo_trades filter=lfs diff=lfs merge=lfs -text
 repo_trades_2020-2024.db filter=lfs diff=lfs merge=lfs -text
 repo_trades_2025.db filter=lfs diff=lfs merge=lfs -text
 repo_trades_2015-2019.db filter=lfs diff=lfs merge=lfs -text
+r_2015-2019.db filter=lfs diff=lfs merge=lfs -text
